@@ -1,4 +1,6 @@
-# Pritam_S
+![Sign_Grey](https://user-images.githubusercontent.com/51298487/152511082-b659af47-08da-434c-94b7-f62ce9c9c46c.png)
+
+# Pritam_S!
 
 ![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritam-s&show_icons=false)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-s&langs_count=8&layout=compact)](https://github.com/pritam-s/github-readme-stats)
 
