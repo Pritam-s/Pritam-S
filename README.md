@@ -67,4 +67,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-s&" alt="pritam-s" /></p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam-s" alt="pritam-s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam-s&no-frame=true&no-bg=true" alt="pritam-s" /></a> </p>
