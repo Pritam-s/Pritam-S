@@ -10,11 +10,11 @@
 <h1 align="left">Hi 👋, I'm Pritam Singh 👨‍💻</h1>
 <h3 align="left">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Python, Flask**
+- 🌱 I’m currently learning **Python, Flask**.
 
-- 💬 Ask me about **Python, Linux, HTML, CSS**
+- 💬 Ask me about **Python, Linux, HTML, CSS**.
 
-- 📫 How to reach me **Pritamsingh17@pm.me**
+- 📫 You can reach me at **Pritamsingh17@pm.me or Singhpritam17@gmail.com**.
 <br>
 
 <h2 align="left">Connect with me :-</h2>
