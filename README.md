@@ -12,9 +12,10 @@
 
 - 🌱 I’m currently learning **Python, Flask**.
 
-- 💬 Ask me about **Python, Linux, HTML, CSS**.
+- 💬 Ask me about **Python, Linux, HTML, CSS, Web Design, UI Design**.
 
 - 📫 You can reach me at **Pritamsingh17@pm.me or Singhpritam17@gmail.com**.
+
 <br>
 
 <h2 align="left">Connect with me :-</h2>
