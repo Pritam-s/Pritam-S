@@ -8,11 +8,12 @@
 
 
 <h1 align="left">Hi 👋, I'm Pritam Singh 👨‍💻</h1>
-<h3 align="left">A passionate developer from India</h3>
+<h3 align="left">A Passionate Developer from India having expertize in ✔Pyton Web Development, ✔Wordpress and ✔Web Design.</h3>
+
 
 - 🌱 I’m currently learning **Python, Flask**.
 
-- 💬 Ask me about **Python, Linux, HTML, CSS, Web Design, UI Design**.
+- 💬 Ask me about **Python, Linux, HTML, CSS, Web Design, UI Design, Wordpress**.
 
 - 📫 You can reach me at **Pritamsingh17@pm.me or Singhpritam17@gmail.com**.
 
