@@ -11,7 +11,7 @@
 <h3 align="left">A Passionate Developer from India having expertize in ✔Pyton Web Development, ✔Wordpress and ✔Web Design.</h3>
 
 
-- 🌱 I’m currently learning **Python, Flask**.
+- 🌱 I’m currently learning **JavaScript, React**.
 
 - 💬 Ask me about **Python, Linux, HTML, CSS, Web Design, UI Design, Wordpress**.
 
